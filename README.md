@@ -1,1 +1,1 @@
-# Pet-selector
+This is a java application that offers a  graphical user interface where users can selext from five diffrent pets using radio buttons.The application utilizes Java's Swing library for graphical user interface components.To use the application, run the PetSelector class, click a radio button to select a pet, and see its graphical representation  displayed.
